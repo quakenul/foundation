@@ -1,10 +1,14 @@
 # ingame fokus
 
-## Components
+## What is included
 
 * Fork of zurb/foundation
 * Bourbon
 
-## How-to compile css
+## What you need
+
+* sass
+
+## How to compile scss into css
 
     sass --style compressed --watch scss:css
