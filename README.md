@@ -1,6 +1,10 @@
-ingame fokus
-============
+# ingame fokus
 
-* Fork of zurb/foundatin
-* Additional external stuff on top
-  * Bourbon
+## Components
+
+* Fork of zurb/foundation
+* Bourbon
+
+## How-to compile css
+
+sass --style compressed --watch scss:css
