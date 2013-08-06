@@ -12,3 +12,8 @@
 ## How to compile scss into css
 
     sass --style compressed --watch scss:css
+
+## How to update bourbon
+
+    cd scss
+    bourbon update
