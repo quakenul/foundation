@@ -7,4 +7,4 @@
 
 ## How-to compile css
 
-sass --style compressed --watch scss:css
+    sass --style compressed --watch scss:css
